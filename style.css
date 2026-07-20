@@ -209,3 +209,111 @@ nav {
     width: 100%;
     margin-top: auto;
 }
+
+/* Ai Content section */
+.hackathon {
+    padding: 100px 0;
+    text-align: center;
+    background: #081528;
+    color: white;
+    width: 960px;
+}
+
+.hackathon h2 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.subtitle {
+    max-width: 700px;
+    margin: 0 auto 50px;
+    color: #cbd5e1;
+}
+
+.stats {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 220px;
+    padding: 30px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 12px;
+}
+
+.card h3 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.tracks {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.tracks span {
+    padding: 10px 20px;
+    background: #2563eb;
+    border-radius: 50px;
+}
+
+button {
+    padding: 15px 40px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+img {
+    max-width: 100%;
+}
+
+/* Footer section */
+.footer-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0d1b2a;
+    height: 100px;
+    width: 960px;
+}
+.footer-div {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    
+}
+.footer-div img {
+    height: 32px;
+    width: auto;
+}
+.footer-div p{
+    color: #888888;
+    margin: 0;
+    
+}
+
+.footer-div ul{
+    display: flex;
+    justify-content: end;
+    gap: 24px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.footer-div ul li {
+    color: #888888;
+    cursor: pointer;
+}
+
+
+/*  */
