@@ -341,7 +341,16 @@ img {
 .footer-div ul li {
     color: #888888;
     cursor: pointer;
+    
 }
-
+.footer-div img{
+    padding-left: 10px;
+}
+.footer-div p{
+    padding-left: 10px;
+}
+.list{
+     padding-right: 10px;
+}
 
 /*End*/
