@@ -12,22 +12,22 @@ nav{
     align-items: center;
 }
 
-.nav_ber{
+.nav-ber{
     max-width: 960px;
     margin: 0 auto;
 }
-.nav_ul{
+.nav-ber-ul{
     display: flex;
     justify-content: space-between;
     list-style: none;
     gap: 15px;
     align-items: center;
 }
-.nav_ul li a{
+.nav-ber-ul li a{
     text-decoration: none;
     color: black;
 }
-.common_button{
+.common-button{
     background-color: #2563EB;
     padding: 12px 22px;
     border-radius: 14px;
